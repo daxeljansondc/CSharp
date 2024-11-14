@@ -1,5 +1,5 @@
 using System;
-
+/*Elaborado por Daxel Janson Guerrero "Java"*/
 class Program
 {
     // Método para calcular el Máximo Común Divisor (MCD) usando el algoritmo de Euclides
